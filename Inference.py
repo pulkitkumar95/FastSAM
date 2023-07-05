@@ -110,6 +110,7 @@ def main(args):
         withContours=args.withContours,
         better_quality=args.better_quality,
     )
+    import pdb;pdb.set_trace()
 
 
 
